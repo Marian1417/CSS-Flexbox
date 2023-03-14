@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .a {
+    margin: 20px auto;
+    width: 500px;
+    height: 500px;
+    background-color: rgb(57, 57, 230);
+    border: 5px solid blue;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .b {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(226, 93, 93);
+    border: 5px solid red;
+    flex-direction: column; 
+    justify-content: center;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 200px;
+    
+    
+    
+  }
